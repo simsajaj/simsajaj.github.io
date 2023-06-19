@@ -18,7 +18,7 @@ If you have any questions, or would like to chat, please email me at sajaj1@depa
 
 ## About My Advisor
 
-My advisor is Dr. Thiru Ramaraj from DePaul University. 
+My advisor is <a href = "https://www.cdm.depaul.edu/Faculty-and-Staff/pages/faculty-info.aspx?fid=1458"> Dr. Thiru Ramaraj</a> from DePaul University. 
 His primary research is focused in Bioinformatics with a specific area of focus in: Computational Biology, Applied Bioinformatic, OMICS Data Science.
 
 ## About My Project
