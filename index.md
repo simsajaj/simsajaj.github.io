@@ -34,4 +34,3 @@ On a weekly basis, I will document the similarities and differences among the te
 ## My Blog
 
 [My Blog](blog.html)
-hello hello
