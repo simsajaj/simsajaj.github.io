@@ -21,6 +21,8 @@ If you have any questions, or would like to chat, please email me at sajaj1@depa
 My advisor is <a href = "https://www.cdm.depaul.edu/Faculty-and-Staff/pages/faculty-info.aspx?fid=1458"> Dr. Thiru Ramaraj</a> from DePaul University. 
 His primary research is focused in Bioinformatics with a specific area of focus in: Computational Biology, Applied Bioinformatics, OMICS Data Science.
 
+My mentor is <a href = "https://www.khoury.northeastern.edu/people/mirjana-prpa/"> Dr. Mirjana Prpa</a> from Northeastern Univeristy. Her area of focus is human-computer interaction. 
+
 ## About My Project
 
 The foundation of my project revolves around the examination of metagenomics in ten soil samples. Metagenomics entails the comprehensive analysis of entire nucleotide sequences derived from all organisms present within a collective sample, typically consisting of microbes. Its application often focuses on the investigation of specific microbial communities, such as those inhabiting human skin, soil, or water samples.
