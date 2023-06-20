@@ -21,7 +21,7 @@ If you have any questions, or would like to chat, please email me at sajaj1@depa
 My advisor is <a href = "https://www.cdm.depaul.edu/Faculty-and-Staff/pages/faculty-info.aspx?fid=1458"> Dr. Thiru Ramaraj</a> from DePaul University. 
 His primary research is focused in Bioinformatics with a specific area of focus in: Computational Biology, Applied Bioinformatics, OMICS Data Science.
 
-My mentor is <a href = "https://www.khoury.northeastern.edu/people/mirjana-prpa/"> Dr. Mirjana Prpa</a> from Northeastern Univeristy. Her area of focus is human-computer interaction. 
+My mentor is <a href = "https://www.khoury.northeastern.edu/people/mirjana-prpa/"> Dr. Mirjana Prpa</a> from Northeastern University. Her area of focus is human-computer interaction. 
 
 ## About My Project
 
