@@ -31,10 +31,8 @@ The objective of my research is to develop computational methods for exploring t
 
 On a weekly basis, I will document the similarities and differences among the ten samples. By undertaking this analysis, I aim to address a significant knowledge gap pertaining to soil communities, particularly the mechanisms by which certain microorganisms proliferate in varying soil types. This research endeavor will aid in unraveling the roles played by dominant microbial community members, ultimately facilitating the advancement of sustainable agriculture and enabling direct manipulation of soil microbiomes to enhance plant success.
 
-[My Final Report](<a href = "https://www.khoury.northeastern.edu/people/mirjana-prpa/">)
+[My Final Report](finalreport.pdf)
 
 ## My Blog
 
 [My Blog](blog.html)
-
-https://github.com/simsajaj/simsajaj.github.io/blob/31bf1a09b72d3a9095da5ca145a8e8dc6e3cb433/finalreport.pdf
